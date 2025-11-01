@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PetConnect",
+  "description": "A user-friendly platform to browse, buy, and sell pets near your location. Find your new furry friend today!",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
